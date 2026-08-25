@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Biology Teacher",
+    "organization": "Anondomoy Pathshala",
+    "location": "Chapai Nawabganj, Bangladesh",
+    "startDate": "17/04/2021",
+    "endDate": "12/03/2022",
+    "current": false,
+    "description": "Taught Biology to Grade 9 and Grade 10 students, translating biological concepts into clear, structured learning material."
+  },
+  {
+    "role": "Web Developer / Web Development Trainee",
+    "organization": "Serve Human Foundation",
+    "location": "Dhaka, Bangladesh",
+    "startDate": "31/05/2021",
+    "endDate": "30/08/2021",
+    "current": false,
+    "description": "Completed web development and WordPress training; placed first in the programme's freelancing cohort. Training covered HTML, CSS, JavaScript, Bootstrap, PHP and jQuery."
+  },
+  {
+    "role": "Deputy Country Coordinator — Bangladesh Chapter",
+    "organization": "Workplace Skill Development Academy New Zealand & International Youth Summit",
+    "location": "Bangladesh",
+    "startDate": "11/11/2020",
+    "endDate": "01/02/2022",
+    "current": false,
+    "description": "Volunteered for the Bangladesh country chapter, supported youth-opportunity activities and led a small volunteer team."
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "category": "Plant Science",
+    "skills": [
+      "Plant Science",
+      "Plant Biology",
+      "Plant Physiology",
+      "Plant Biotechnology",
+      "Plant Breeding"
+    ]
+  },
+  {
+    "category": "Research / Laboratory",
+    "skills": [
+      "Research Methods",
+      "Laboratory Techniques"
+    ]
+  },
+  {
+    "category": "Data / Computational",
+    "skills": [
+      "Data Analysis",
+      "R",
+      "Python",
+      "Excel"
+    ]
+  }
+]

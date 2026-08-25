@@ -1,0 +1,26 @@
+{
+  "publications": {
+    "visible": true,
+    "order": 1,
+    "navLabel": "Publications",
+    "heading": "Selected Publications",
+    "eyebrow": "Peer-Reviewed Work",
+    "emptyText": "Publications will appear here."
+  },
+  "experience": {
+    "visible": true,
+    "order": 2,
+    "navLabel": "Experience",
+    "heading": "Experience",
+    "eyebrow": "Professional Path",
+    "emptyText": "Experience details will appear here."
+  },
+  "certificates": {
+    "visible": false,
+    "order": 3,
+    "navLabel": "Certificates",
+    "heading": "Certificates",
+    "eyebrow": "Credentials",
+    "emptyText": "Certificates coming soon."
+  }
+}

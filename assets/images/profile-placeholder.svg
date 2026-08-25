@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="55%" stop-color="#0B0B0C"/>
+      <stop offset="100%" stop-color="#1A1610"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="55%" cy="30%" r="55%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="stem" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E9C46A"/>
+      <stop offset="100%" stop-color="#C9A227"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <rect width="800" height="1000" fill="url(#glow)"/>
+  <g opacity="0.08" stroke="#D4AF37" stroke-width="1">
+    <path d="M0 120H800 M0 300H800 M0 480H800 M0 660H800 M0 840H800"/>
+    <path d="M133 0V1000 M266 0V1000 M400 0V1000 M533 0V1000 M666 0V1000"/>
+  </g>
+  <g fill="#D4AF37" opacity="0.45">
+    <circle cx="120" cy="150" r="3"/><circle cx="680" cy="210" r="3"/>
+    <circle cx="650" cy="820" r="3"/><circle cx="150" cy="840" r="3"/>
+    <circle cx="90" cy="480" r="2.4"/><circle cx="710" cy="520" r="2.4"/>
+  </g>
+  <g transform="translate(400,480)">
+    <path d="M0 -180 C95 -180 158 -100 158 -10 C158 74 110 142 42 174 L42 240 L-42 240 L-42 174 C-110 142 -158 74 -158 -10 C-158 -100 -95 -180 0 -180 Z" fill="#D4AF37" opacity="0.07"/>
+  </g>
+  <g transform="translate(580,130)" opacity="0.5" fill="none" stroke="url(#stem)" stroke-width="2" stroke-linecap="round">
+    <path d="M0 170 C 10 106 10 42 0 0"/>
+    <path d="M0 32 C 25 22 42 0 44 -24"/>
+    <path d="M0 74 C -28 62 -44 38 -46 12"/>
+    <path d="M0 118 C 23 106 38 84 38 60"/>
+  </g>
+  <g transform="translate(120,700)" opacity="0.4" fill="none" stroke="url(#stem)" stroke-width="1.8" stroke-linecap="round">
+    <path d="M20 8 C 55 34 20 60 55 86 C 90 112 55 138 90 164"/>
+    <path d="M90 8 C 55 34 90 60 55 86 C 20 112 55 138 20 164"/>
+    <path d="M23 18h64 M27 46h56 M31 74h48 M35 102h40 M39 130h32"/>
+  </g>
+  <text x="400" y="885" font-family="Georgia, serif" font-size="26" fill="#F5EFD9" text-anchor="middle" opacity="0.9">Add your photo</text>
+  <text x="400" y="916" font-family="Arial, sans-serif" font-size="13" letter-spacing="2" fill="#D4AF37" text-anchor="middle" opacity="0.85">VIA ADMIN &#8594; MEDIA MANAGER</text>
+</svg>

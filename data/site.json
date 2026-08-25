@@ -1,0 +1,81 @@
+{
+  "siteTitle": "Fahad Badsha Shamim",
+  "email": "fahadbadshashamim@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/fahad-badsha-shamim-9930b6213",
+  "github": "https://github.com/fahad485",
+  "cvUrl": "assets/files/cv.pdf",
+  "name": "Fahad Badsha Shamim",
+  "professionalTitle": "MSc Plant Science Student",
+  "heroLabel": "PLANT SCIENCE • RESEARCH • BIOTECHNOLOGY",
+  "heroTagline": "Research-Oriented Plant Scientist",
+  "heroDescription": "Exploring plant science, crop research and sustainable agricultural systems through field-based research and research-oriented training in Bonn.",
+  "heroImage": "assets/images/profile-fahad.jpg",
+  "primaryButtonText": "View Research",
+  "primaryButtonLink": "research.html",
+  "secondaryButtonText": "Download CV",
+  "secondaryButtonLink": "assets/files/cv.pdf",
+  "showButtons": true,
+  "lastUpdated": "",
+  "nav": {
+    "brandText": "Fahad Badsha Shamim",
+    "shortText": "FBS",
+    "showThemeToggle": true,
+    "showCV": false,
+    "cvLabel": "CV",
+    "items": [
+      {
+        "id": "home",
+        "label": "Home",
+        "visible": true,
+        "order": 0,
+        "href": "index.html"
+      },
+      {
+        "id": "about",
+        "label": "About",
+        "visible": true,
+        "order": 1,
+        "href": "about.html"
+      },
+      {
+        "id": "research",
+        "label": "Research",
+        "visible": true,
+        "order": 2,
+        "href": "research.html"
+      },
+      {
+        "id": "publications",
+        "label": "Publications",
+        "visible": true,
+        "order": 3,
+        "href": "publications.html"
+      },
+      {
+        "id": "skills",
+        "label": "Skills",
+        "visible": true,
+        "order": 4,
+        "href": "skills.html"
+      },
+      {
+        "id": "education",
+        "label": "Education",
+        "visible": true,
+        "order": 5,
+        "href": "index.html#education"
+      },
+      {
+        "id": "contact",
+        "label": "Contact",
+        "visible": true,
+        "order": 6,
+        "href": "index.html#contact"
+      }
+    ]
+  },
+  "profileMenuItems": [],
+  "homeAddress": "Bonn, Germany",
+  "homeAddressStyle": "card",
+  "homeAddressAnimation": "none"
+}

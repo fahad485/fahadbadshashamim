@@ -1,0 +1,147 @@
+[
+  {
+    "slug": "sunflower-cultivation-chapainawabganj",
+    "title": "Yield, Profitability and Prospects of Sunflower Cultivation in Chapainawabganj District, Bangladesh",
+    "category": "Crop Science • Agronomy • Agricultural Economics",
+    "year": "2023",
+    "image": "assets/images/project-sunflower.svg",
+    "description": "Field-based evaluation of growth, yield, profitability and cultivation prospects of two sunflower varieties under the Barind tract conditions of Chapainawabganj, Bangladesh.",
+    "methods": "The study was conducted at the research field of EXIM Bank Agricultural University Bangladesh during the Rabi season. BARI Surjomukhi-3 (HYV) and DS 275 (Hybrid) were evaluated using replicated field observations of growth and yield attributes, correlation analysis, and economic assessment based on cultivation costs, gross returns, net returns and benefit–cost ratio.",
+    "tags": [
+      "Sunflower",
+      "Barind Tract",
+      "Yield",
+      "Varietal Evaluation",
+      "Profitability",
+      "Correlation Analysis"
+    ],
+    "externalUrl": "https://www.researchgate.net/publication/380819354_Yield_profitability_and_prospects_of_sunflower_cultivation_in_Chapainawabganj_district_Bangladesh",
+    "pdfUrl": "https://ebaub.ac.bd/journal/ej/files/vol5/jc5_6.pdf",
+    "githubUrl": "",
+    "featured": true,
+    "order": 1,
+    "publication": {
+      "journal": "EBAUB Journal",
+      "volume": "5",
+      "pages": "37–45",
+      "doi": "",
+      "year": "2023",
+      "authors": "Mehedi Hashan Sohel; Asif Ahmed Ratul; Uswatun Hasana Hashi; Md. Fahad Ali; Tonima Tasmim; Md. Abdur Razzak; Md. Mahabubur Rahman"
+    },
+    "results": [
+      "DS 275 showed higher plant height, leaf number and leaf length than BARI Surjomukhi-3.",
+      "DS 275 produced higher filled-grain number and grain yield, while BARI Surjomukhi-3 flowered and matured earlier.",
+      "Grain yield was 8.20 mound/bigha for DS 275 and 6.83 mound/bigha for BARI Surjomukhi-3.",
+      "Reported benefit–cost ratios were 3.03 for DS 275 and 2.52 for BARI Surjomukhi-3."
+    ]
+  },
+  {
+    "slug": "okra-integrated-nutrient-management",
+    "title": "Integrated Nutrient Management for Sustainable Cultivation of Okra (Abelmoschus esculentus L.) in Northern Ganges River Floodplain Soils of Bangladesh",
+    "category": "Plant Nutrition • Soil Science • Sustainable Agriculture",
+    "year": "2024",
+    "image": "assets/images/project-okra.svg",
+    "description": "Pot experiment evaluating integrated nutrient-management strategies for okra growth and reproductive performance, with attention to soil fertility and sustainable production under subtropical conditions.",
+    "methods": "A pot experiment with three replications and 12 integrated nutrient-management treatments was arranged in a Completely Randomized Design. Vegetative and reproductive traits, yield-related parameters, and soil physicochemical properties before planting and after harvest were evaluated. The study also considered variable production costs for profitability analysis.",
+    "tags": [
+      "Okra",
+      "Integrated Nutrient Management",
+      "Soil Fertility",
+      "Compost",
+      "Vermicompost",
+      "Trichocompost",
+      "NPK"
+    ],
+    "externalUrl": "https://doi.org/10.51258/rjh.2024.05",
+    "pdfUrl": "https://journals.indexcopernicus.com/api/file/viewByFileId/2387363",
+    "githubUrl": "",
+    "featured": true,
+    "order": 2,
+    "publication": {
+      "journal": "Romanian Journal of Horticulture",
+      "volume": "5(5)",
+      "pages": "43–50",
+      "doi": "10.51258/rjh.2024.05",
+      "year": "2024",
+      "authors": "M.H. Sohel; T.T. Tithi; Md. Fahad Ali; Md. Abdullah-Al-Mamun; Md. M. Rahman"
+    },
+    "results": [
+      "Twelve integrated nutrient-management treatments were evaluated under subtropical conditions.",
+      "The treatment combining 75% of the recommended NPK dose with 25% organic fertilizer sources (compost + vermicompost + trichocompost) significantly enhanced several growth and reproductive traits.",
+      "The study reported improvements in flowers, fruits, average fruit weight, 100-seed weight and yield per plant under the strongest treatment.",
+      "Soil physicochemical properties were assessed before planting and after harvest, linking crop performance with soil-fertility management."
+    ]
+  },
+  {
+    "slug": "mustard-variety-performance-barind-tract",
+    "title": "Growth and Yield Performance of Different Mustard Varieties Grown in Barind Tract Soils of Bangladesh",
+    "category": "Crop Science • Plant Breeding • Varietal Evaluation",
+    "year": "2024",
+    "image": "assets/images/project-mustard.svg",
+    "description": "Comparative field evaluation of thirteen mustard varieties under Barind tract conditions, focusing on growth and yield performance during the 2021–2022 Rabi season.",
+    "methods": "Thirteen mustard varieties were cultivated in Chapai Nawabganj during the 2021–2022 Rabi season. The study compared growth and yield performance across BINA, BARI, Indian, Japanese and local varietal materials to identify performance differences relevant to varietal selection under the study environment.",
+    "tags": [
+      "Mustard",
+      "Barind Tract",
+      "Variety Evaluation",
+      "Rabi Season",
+      "Yield Performance",
+      "Crop Improvement"
+    ],
+    "externalUrl": "https://j-tropical-crops.com/index.php/agro/article/view/626",
+    "pdfUrl": "https://j-tropical-crops.com/index.php/agro/article/download/626/255/3995",
+    "githubUrl": "",
+    "featured": true,
+    "order": 3,
+    "publication": {
+      "journal": "Journal of Tropical Crop Science",
+      "volume": "11(03)",
+      "pages": "229–238",
+      "doi": "10.29244/jtcs.11.03.229-238",
+      "year": "2024",
+      "authors": "Mehedi Hashan Sohel; Md. Fahad Ali; Ali Ahmed; Md. Raduon Ahmed; Tonima Tasmim; Hadia Akhter; Md. Mahabubur Rahman"
+    },
+    "results": [
+      "Thirteen mustard varieties were evaluated under the Barind tract environment of Chapai Nawabganj.",
+      "The study compared growth and yield performance across diverse varietal materials, including BINA and BARI varieties, Indian types, a Japanese variety and a local variety.",
+      "The results provide comparative evidence relevant to mustard varietal choice for the study environment."
+    ]
+  },
+  {
+    "slug": "muskmelon-barind-tract-exploratory-trial",
+    "title": "Introduction to Muskmelon in the Barind Tract through Growth and Yield Parameters",
+    "category": "Crop Science • Horticulture • Exploratory Field Research",
+    "year": "2019–2020",
+    "image": "assets/images/project-muskmelon.svg",
+    "description": "Exploratory cultivation work on a Japanese muskmelon variant in Chapainawabganj, Bangladesh, examining practical crop establishment, growth and fruit performance under local Barind tract conditions.",
+    "methods": "Exploratory field cultivation was conducted in Chapainawabganj using a Japanese muskmelon variant. The work was repeated twice and observations focused on establishment, vegetative growth, fruit development, taste and practical field performance. Insect pressure associated with local weather conditions substantially affected the crop, limiting the usable outcome to approximately half of the intended trial observations.",
+    "tags": [
+      "Muskmelon",
+      "Horticulture",
+      "Barind Tract",
+      "Field Trial",
+      "Fruit Quality",
+      "Insect Pressure"
+    ],
+    "externalUrl": "",
+    "pdfUrl": "",
+    "githubUrl": "",
+    "featured": false,
+    "order": 4,
+    "publication": {
+      "journal": "Unpublished student research / exploratory field trial",
+      "volume": "",
+      "pages": "",
+      "doi": "",
+      "year": "2019–2020",
+      "authors": "Md. Fahad Ali"
+    },
+    "results": [
+      "The Japanese muskmelon variant was successfully introduced as an exploratory crop under Chapainawabganj conditions.",
+      "The work was conducted twice, allowing practical comparison of crop response across attempts.",
+      "Weather-associated insect pressure caused substantial crop damage and reduced the usable outcome to approximately 50% of the intended trial observations.",
+      "The surviving fruit was reported to have favourable taste, supporting further controlled evaluation under improved pest-management conditions."
+    ],
+    "notes": "This project is presented transparently as an exploratory student field trial. Exact soil physicochemical measurements, coordinates, plot dimensions and treatment schedules were not available in the recovered project records and are therefore intentionally not invented."
+  }
+]

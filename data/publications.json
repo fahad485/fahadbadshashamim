@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "sunflower-2023",
+    "title": "Yield, Profitability and Prospects of Sunflower Cultivation in Chapainawabganj District Bangladesh",
+    "year": "2023",
+    "type": "Journal Article",
+    "venue": "EBAUB Journal, 5, 37–45",
+    "doi": "",
+    "externalUrl": "https://www.researchgate.net/publication/380819354_Yield_profitability_and_prospects_of_sunflower_cultivation_in_Chapainawabganj_district_Bangladesh",
+    "pdfUrl": "https://ebaub.ac.bd/journal/ej/files/vol5/jc5_6.pdf",
+    "authors": "Mehedi Hashan Sohel; Asif Ahmed Ratul; Uswatun Hasana Hashi; Md. Fahad Ali; Tonima Tasmim; Md. Abdur Razzak; Md. Mahabubur Rahman",
+    "projectSlug": "sunflower-cultivation-chapainawabganj"
+  },
+  {
+    "slug": "okra-2024",
+    "title": "Integrated nutrient management for sustainable cultivation of okra (Abelmoschus esculentus L.) in northern Ganges river floodplain soils of Bangladesh",
+    "year": "2024",
+    "type": "Journal Article",
+    "venue": "Romanian Journal of Horticulture, 5(5), 43–50",
+    "doi": "10.51258/rjh.2024.05",
+    "externalUrl": "https://doi.org/10.51258/rjh.2024.05",
+    "pdfUrl": "https://journals.indexcopernicus.com/api/file/viewByFileId/2387363",
+    "authors": "M.H. Sohel; T.T. Tithi; Md. Fahad Ali; Md. Abdullah-Al-Mamun; Md. M. Rahman",
+    "projectSlug": "okra-integrated-nutrient-management"
+  },
+  {
+    "slug": "mustard-2024",
+    "title": "Growth and Yield Performance of Different Mustard Varieties Grown in Barind Tract Soils of Bangladesh",
+    "year": "2024",
+    "type": "Journal Article",
+    "venue": "Journal of Tropical Crop Science, 11(03), 229–238",
+    "doi": "10.29244/jtcs.11.03.229-238",
+    "externalUrl": "https://doi.org/10.29244/jtcs.11.03.229-238",
+    "pdfUrl": "https://j-tropical-crops.com/index.php/agro/article/download/626/255/3995",
+    "authors": "Mehedi Hashan Sohel; Md. Fahad Ali; Ali Ahmed; Md. Raduon Ahmed; Tonima Tasmim; Hadia Akhter; Md. Mahabubur Rahman",
+    "projectSlug": "mustard-variety-performance-barind-tract"
+  }
+]

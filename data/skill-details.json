@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Plant Science",
+    "category": "Plant Science",
+    "summary": "Research-oriented plant-science foundation aligned with Bonn's multidisciplinary programme.",
+    "details": "The University of Bonn's MSc Plant Sciences integrates fundamental and applied plant science across plant biochemistry, physiology and molecular biology; plant cell biology and development; and plant biodiversity, evolution and systematics. The programme also emphasises hands-on laboratory training and research-driven projects. This portfolio uses Plant Science as the umbrella category for the user's crop-science, plant-biology and sustainable-agriculture research background.",
+    "evidence": [
+      "MSc Plant Sciences, University of Bonn",
+      "Published crop-research projects in sunflower, okra and mustard"
+    ]
+  },
+  {
+    "name": "Plant Biology",
+    "category": "Plant Science",
+    "summary": "Plant structure, function, development, diversity and biological responses within a broad plant-science framework.",
+    "details": "Bonn's programme describes plant cell biology and development, plant biochemistry, physiology and molecular biology, and plant systematics and biodiversity as core areas. Use this page to document specific modules, laboratory work and future research evidence without overstating competencies beyond completed training.",
+    "evidence": [
+      "MSc Plant Sciences programme framework, University of Bonn"
+    ]
+  },
+  {
+    "name": "Plant Physiology",
+    "category": "Plant Science",
+    "summary": "Understanding plant physiological processes and their responses to environmental and developmental factors.",
+    "details": "Plant physiology is a central component of Bonn's Plant Sciences programme, including the mandatory Plant Biochemistry, Physiology and Molecular Biology lecture and the elective Ecophysiology seminar. Project evidence can be added here as specific measurements, experiments or coursework are completed.",
+    "evidence": [
+      "PBPM0 — Plant Biochemistry, Physiology and Molecular Biology",
+      "PBPM3 — Ecophysiology (elective seminar in the programme)"
+    ]
+  },
+  {
+    "name": "Plant Biotechnology",
+    "category": "Plant Science",
+    "summary": "Plant-biotechnology concepts situated within modern plant research and laboratory training.",
+    "details": "The University of Bonn identifies plant biotechnology among the fields available through its laboratory-course portfolio, alongside plant physiology, biochemistry, molecular biology and transgenic-plant research. This portfolio records the area as an academic focus rather than claiming specific biotechnology techniques unless supported by direct training or project evidence.",
+    "evidence": [
+      "Plant biotechnology listed among Bonn Plant Sciences laboratory fields"
+    ]
+  },
+  {
+    "name": "Plant Breeding",
+    "category": "Plant Science",
+    "summary": "Crop improvement and varietal evaluation with direct field-research evidence from mustard and sunflower studies.",
+    "details": "The user's research experience includes comparative evaluation of mustard and sunflower varieties for growth and yield performance. Bonn's curriculum also includes free-choice study options such as Genome Analysis in Plant Breeding, placing crop improvement within the programme's wider research ecosystem.",
+    "evidence": [
+      "Mustard varietal evaluation — 13 varieties",
+      "Sunflower varietal evaluation — BARI Surjomukhi-3 vs DS 275"
+    ]
+  },
+  {
+    "name": "Research Methods",
+    "category": "Research / Laboratory",
+    "summary": "Experimental planning, field or pot experimentation, structured observations, quantitative assessment and scientific reporting.",
+    "details": "Documented research experience includes field trials, a pot experiment with 12 INM treatments in a Completely Randomized Design, comparative varietal evaluation, correlation analysis and economic assessment. Bonn's programme further emphasises research-driven projects and hands-on laboratory work.",
+    "evidence": [
+      "CRD pot experiment with 12 INM treatments in okra research",
+      "Comparative varietal field evaluations",
+      "Correlation and profitability analysis in sunflower research"
+    ]
+  },
+  {
+    "name": "Laboratory Techniques",
+    "category": "Research / Laboratory",
+    "summary": "Hands-on laboratory capability as a programme-aligned development area, to be expanded with verified techniques.",
+    "details": "The MSc Plant Sciences programme at Bonn places strong emphasis on practical laboratory training and offers dedicated lab modules in physiology, chemical ecology, transcriptomics, Python for Life Scientists, seed-plant systematics and other areas. This page is intentionally written conservatively: only specific techniques actually completed should be added as evidence.",
+    "evidence": [
+      "Bonn MSc Plant Sciences: laboratory modules form a core part of the programme"
+    ]
+  },
+  {
+    "name": "Data Analysis",
+    "category": "Data / Computational",
+    "summary": "Quantitative interpretation of plant-science and agricultural research data.",
+    "details": "Research evidence includes comparison of growth and yield parameters, correlation analysis and economic calculations such as gross return, net return and benefit–cost ratio. Software-specific proficiency should be documented only with completed coursework or demonstrable project evidence.",
+    "evidence": [
+      "Sunflower correlation analysis and profitability assessment",
+      "Crop growth and yield comparisons"
+    ]
+  },
+  {
+    "name": "R",
+    "category": "Data / Computational",
+    "summary": "Statistical and research-data analysis environment for reproducible plant-science workflows.",
+    "details": "Use this page to document verified R coursework, packages, scripts and analyses. The current profile lists R as a computational skill area for future evidence-backed expansion.",
+    "evidence": []
+  },
+  {
+    "name": "Python",
+    "category": "Data / Computational",
+    "summary": "Python for research data handling, analysis and reproducible computational workflows.",
+    "details": "Bonn's MSc Plant Sciences programme includes a dedicated laboratory module titled Python for Life Scientists. Use this page to add the exact coursework, notebooks, packages and analyses completed during the programme.",
+    "evidence": [
+      "PFLS — Python for Life Scientists, University of Bonn"
+    ]
+  },
+  {
+    "name": "Excel",
+    "category": "Data / Computational",
+    "summary": "Structured spreadsheet-based data handling, calculations and reporting.",
+    "details": "Excel is included in the user's documented digital skills background. Use this page to maintain verified examples such as research tables, calculations, charts and data-cleaning workflows.",
+    "evidence": [
+      "Microsoft Excel listed in CV digital skills"
+    ]
+  }
+]

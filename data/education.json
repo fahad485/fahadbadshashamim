@@ -1,0 +1,24 @@
+[
+  {
+    "degree": "MSc Plant Sciences",
+    "institution": "University of Bonn",
+    "location": "Bonn, Germany",
+    "startDate": "",
+    "endDate": "",
+    "current": true,
+    "description": "Research-oriented English-taught programme with strong hands-on laboratory training and flexible study pathways across plant biochemistry, physiology and molecular biology; plant cell biology and development; and plant biodiversity, evolution and systematics.",
+    "logo": "",
+    "website": "https://www.uni-bonn.de/en/studying/degree-programs/degree-programs-a-z/plant-sciences-msc"
+  },
+  {
+    "degree": "BSc in Agriculture",
+    "institution": "Exim Bank Agricultural University Bangladesh",
+    "location": "Chapai Nawabganj, Bangladesh",
+    "startDate": "13/01/2018",
+    "endDate": "07/2022",
+    "current": false,
+    "description": "Agricultural Science degree. Final grade: 3.58. Thesis: Yield, Profitability And Prospect of Growth Parameters of different Mustard Varieties in the Barind Tract Area of Chapai Nawabganj.",
+    "logo": "",
+    "website": "http://ebaub.edu.bd/"
+  }
+]

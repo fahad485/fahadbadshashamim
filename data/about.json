@@ -1,0 +1,23 @@
+{
+  "heading": "About Me",
+  "biography": "I am an MSc Plant Science student at the University of Bonn, Germany, developing a research profile at the intersection of plant biology, crop science and sustainable agriculture. My previous research in Bangladesh includes varietal evaluation of mustard and sunflower, crop growth and yield assessment, profitability analysis, and integrated nutrient management in okra. I am particularly interested in translating plant-science knowledge into rigorous, evidence-based approaches for crop improvement and sustainable production.",
+  "profileImage": "assets/images/profile-fahad.jpg",
+  "cards": [
+    {
+      "label": "CURRENT PROGRAM",
+      "value": "MSc Plant Sciences — University of Bonn"
+    },
+    {
+      "label": "RESEARCH FOCUS",
+      "value": "Plant Biology • Crop Science • Sustainable Agriculture"
+    },
+    {
+      "label": "RESEARCH EXPERIENCE",
+      "value": "Field trials • Varietal evaluation • Nutrient management"
+    },
+    {
+      "label": "LOCATION",
+      "value": "Bonn, Germany"
+    }
+  ]
+}
