@@ -509,7 +509,7 @@
   "heroTitleAnimation": "none",
   "imageFrames": {
     "home": {
-      "frame": "hexagon",
+      "frame": "organic-blob",
       "position": "center",
       "zoom": 1,
       "brightness": 1,
