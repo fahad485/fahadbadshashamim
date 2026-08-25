@@ -4,9 +4,15 @@
     "title": "Yield, Profitability and Prospects of Sunflower Cultivation in Chapainawabganj District, Bangladesh",
     "category": "Crop Science • Agronomy • Agricultural Economics",
     "year": "2023",
-    "image": "assets/images/project-sunflower.svg",
+    "image": "",
     "description": "Field-based evaluation of growth, yield, profitability and cultivation prospects of two sunflower varieties under the Barind tract conditions of Chapainawabganj, Bangladesh.",
     "methods": "The study was conducted at the research field of EXIM Bank Agricultural University Bangladesh during the Rabi season. BARI Surjomukhi-3 (HYV) and DS 275 (Hybrid) were evaluated using replicated field observations of growth and yield attributes, correlation analysis, and economic assessment based on cultivation costs, gross returns, net returns and benefit–cost ratio.",
+    "results": [
+      "DS 275 showed higher plant height, leaf number and leaf length than BARI Surjomukhi-3.",
+      "DS 275 produced higher filled-grain number and grain yield, while BARI Surjomukhi-3 flowered and matured earlier.",
+      "Grain yield was 8.20 mound/bigha for DS 275 and 6.83 mound/bigha for BARI Surjomukhi-3.",
+      "Reported benefit–cost ratios were 3.03 for DS 275 and 2.52 for BARI Surjomukhi-3."
+    ],
     "tags": [
       "Sunflower",
       "Barind Tract",
@@ -25,15 +31,22 @@
       "volume": "5",
       "pages": "37–45",
       "doi": "",
-      "year": "2023",
-      "authors": "Mehedi Hashan Sohel; Asif Ahmed Ratul; Uswatun Hasana Hashi; Md. Fahad Ali; Tonima Tasmim; Md. Abdur Razzak; Md. Mahabubur Rahman"
+      "year": "2023"
     },
-    "results": [
-      "DS 275 showed higher plant height, leaf number and leaf length than BARI Surjomukhi-3.",
-      "DS 275 produced higher filled-grain number and grain yield, while BARI Surjomukhi-3 flowered and matured earlier.",
-      "Grain yield was 8.20 mound/bigha for DS 275 and 6.83 mound/bigha for BARI Surjomukhi-3.",
-      "Reported benefit–cost ratios were 3.03 for DS 275 and 2.52 for BARI Surjomukhi-3."
-    ]
+    "presentation": {
+      "titleColor": "#eee0c9",
+      "bodyColor": "#6b6558",
+      "fontSize": "1rem",
+      "headingFont": "Inter",
+      "bodyFont": "Inter",
+      "hover": true,
+      "image": "",
+      "imageUrl": "",
+      "buttonLabel": "View details",
+      "buttonUrl": "",
+      "buttonStyle": "pill",
+      "buttonAnimation": "none"
+    }
   },
   {
     "slug": "okra-integrated-nutrient-management",
