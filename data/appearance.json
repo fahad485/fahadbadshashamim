@@ -509,7 +509,7 @@
   "heroTitleAnimation": "none",
   "imageFrames": {
     "home": {
-      "frame": "gold-ring",
+      "frame": "hexagon",
       "position": "center",
       "zoom": 1,
       "brightness": 1,
